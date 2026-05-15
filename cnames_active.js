@@ -2458,7 +2458,7 @@ var cnames_active = {
   "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
   "pathfinder": "kvnq-poza.github.io/pathfinder",
   "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
-  "pax": "nathan.github.io/pax",
+ "pax": "nathan.github.io/pax",
   "payment-crypto": "kiogia.github.io/payment-crypto",
   "pc": "jeffpar.github.io/pc",
   "pcl": "cname.vercel-dns.com", // noCF
@@ -2466,6 +2466,7 @@ var cnames_active = {
   "pdf-lib": "hopding.github.io/pdf-lib", // noCF
   "pdfium": "cname.vercel-dns.com", // noCF
   "pdfutils": "gottox.github.io/node-pdfutils", // noCF? (don´t add this in a new PR)
+  "pear": "pear-site-597zwkxpr-cagris-projects-877ace96.vercel.app",
   "pecis": "techpot-studio.github.io/Pecis",
   "pee": "enbyautumn.github.io/pee.js",
   "peek": "wezn.github.io/my-js-site",
